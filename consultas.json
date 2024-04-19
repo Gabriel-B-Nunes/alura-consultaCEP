@@ -1,0 +1,26 @@
+[
+  {
+    "CEP": "78717-706",
+    "logradouro": "Rua João Pessoa",
+    "complemento": "",
+    "bairro": "Residencial Jardim das Hortências",
+    "localidade": "Rondonópolis",
+    "uf": "MT",
+    "ibge": "5107602",
+    "gia": "",
+    "ddd": "66",
+    "siafi": "9151"
+  },
+  {
+    "CEP": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  }
+]
